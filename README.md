@@ -24,5 +24,5 @@ Trained on a dataset of 15,515 images:
 ## Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jin-raii/Garbage-Classifier-.git
+   git clone https://github.com/mrthapa4/garbage_classifier_Project.git
    cd Garbage-Classifier-
