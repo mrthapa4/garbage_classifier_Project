@@ -15,7 +15,7 @@ A web application for classifying waste images into 12 categories using a Django
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Django, TensorFlow, MobileNet, VGG16, django-allauth, uv
 - **Models**: Hosted on [Google Drive](https://drive.google.com/drive/folders/1GslR2Hw9k7YF1Y6zhIgcd0adAcmAM85A?usp=drive_link)
-- **Kaggle Notebook**: [Garbage Classifier](https://www.kaggle.com/code/jinrai/gragbage-classifier)
+- **Kaggle Notebook**: [Garbage Classifier](https://www.kaggle.com/code/mrthapa4/gragbage-classifier/edit)
 
 ## Dataset
 Trained on a dataset of 15,515 images:
